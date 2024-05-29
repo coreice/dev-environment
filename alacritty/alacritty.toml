@@ -1,6 +1,11 @@
 # Alacritty configuration file
 # By Mark van der Meer - github.com/coreice
 
+import = [
+  # Color theme from github.com/alacritty/alacritty-theme
+  "~/.config/alacritty/themes/themes/alabaster_dark.toml" 
+]
+
 [env]
 TERM = "xterm-256color" # For tmux
 
@@ -12,7 +17,7 @@ offset.x = 1 # Otherwise the font is rendered too condensed
 offset.y = 0
 
 [window]
-padding.x = 5
+padding.x = 2
 padding.y = 10
 dynamic_padding = true
 
@@ -20,5 +25,5 @@ decorations = "Full"
 dynamic_title = false
 
 blur = true
-opacity = 0.9
+opacity = 0.90
 
