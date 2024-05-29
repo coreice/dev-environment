@@ -1,0 +1,24 @@
+# Alacritty configuration file
+# By Mark van der Meer - github.com/coreice
+
+[env]
+TERM = "xterm-256color" # For tmux
+
+[font]
+normal.family = "MesloLGS Nerd Font Mono"
+size = 13
+
+offset.x = 1 # Otherwise the font is rendered too condensed
+offset.y = 0
+
+[window]
+padding.x = 5
+padding.y = 10
+dynamic_padding = true
+
+decorations = "Full"
+dynamic_title = false
+
+blur = true
+opacity = 0.9
+
