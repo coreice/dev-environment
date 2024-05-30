@@ -18,12 +18,12 @@ shape = "Block"
 TERM = "xterm-256color" # For tmux
 
 [font]
+builtin_box_drawing = true
+
 size = 13
 
-glyph_offset.x = 1 
-
 offset.x = 1 # Otherwise the font is rendered too condensed
-offset.y = 1
+offset.y = 1 # Increases readability for me
 
 [font.bold]
 family = "Hack Nerd Font Mono"
