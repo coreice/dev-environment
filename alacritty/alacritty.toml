@@ -7,11 +7,11 @@ import = [
 
 [cursor]
 blink_interval = 500
-blink_timeout = 5
-unfocused_hollow = false
+blink_timeout = 0
+unfocused_hollow = true
 
 [cursor.style]
-blinking = "On"
+blinking = "Always"
 shape = "Block"
 
 [env]
