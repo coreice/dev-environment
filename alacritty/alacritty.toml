@@ -2,8 +2,7 @@
 # By Mark van der Meer - github.com/coreice
 
 import = [
-  # Color theme from github.com/alacritty/alacritty-theme
-  "~/.config/alacritty/themes/themes/base16_default_dark.toml" 
+  "~/.config/alacritty/themes/themes/iterm.toml"
 ]
 
 [env]
