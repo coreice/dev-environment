@@ -52,3 +52,5 @@ dynamic_title = false
 blur = true
 opacity = 0.90
 
+option_as_alt = "OnlyLeft"
+
