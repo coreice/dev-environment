@@ -23,6 +23,10 @@ Some helpful resources I used for setting up Alacritty:
 - [The alacritty-theme repository](https://github.com/alacritty/alacritty-theme)
 - [A better app icon for modern macOS systems](https://github.com/hmarr/dotfiles/blob/099af97f7165579bcc41579891c05dcbba567f16/bin/update-alacritty-icon.sh)
 
+## GnuPG
+
+- [Do not forget to enable gpg-agent via `.zshrc`](https://www.gnupg.org/documentation/manuals/gnupg/Invoking-GPG_002dAGENT.html#Invoking-GPG_002dAGENT))
+
 ## Inspiration
 
 My configuration is heavily inspired by the dotfiles from the following people / YouTubers:
