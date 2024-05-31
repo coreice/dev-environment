@@ -2,7 +2,7 @@
 # By Mark van der Meer - github.com/coreice
 
 import = [
-  "~/.config/alacritty/themes/themes/iterm.toml"
+  "~/.config/alacritty/iterm.toml"
 ]
 
 [cursor]
