@@ -1,6 +1,6 @@
 tmux/plugins/
 tmux/tmp/
-gh/
+.config/gh/hosts.yml
 iterm2/
 mc/
 nvim/
