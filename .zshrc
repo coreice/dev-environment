@@ -80,6 +80,7 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 # Aliases
 alias c='clear'
 alias ls='ls --color'
+alias la='ls -lah --color'
 alias szsh='source ~/.zshrc'
 
 # Shell integrations
