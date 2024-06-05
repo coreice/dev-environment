@@ -89,7 +89,7 @@ eval "$(thefuck --alias)"
 eval "$(zoxide init --cmd cd zsh)"
 
 # General environment variables
-EDITOR=nvim
+export EDITOR=nvim
 PASSWORD_STORE_ENABLE_EXTENSIONS=true
 
 # Pyenv setup
