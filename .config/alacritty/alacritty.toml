@@ -22,7 +22,7 @@ builtin_box_drawing = true
 
 size = 13
 
-offset.x = 1 # Otherwise the font is rendered too condensed
+offset.x = 0
 offset.y = 1 # Increases readability for me
 
 [font.bold]
