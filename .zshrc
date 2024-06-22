@@ -82,6 +82,7 @@ alias c='clear'
 alias ls='ls --color'
 alias la='ls -lah --color'
 alias szsh='source ~/.zshrc'
+alias bwu='brew update && brew upgrade && brew cleanup'
 
 # Shell integrations
 eval "$(fzf --zsh)"
